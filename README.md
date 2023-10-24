@@ -22,5 +22,5 @@ Enjoy! &#128076;&#128578;&#128077;
 
 P.S.
 
-The app is under developing yet. To see the updates in a timely manner, please, click to "Whatch" button in the upper rigth corner of the repository.
+The app is still under development. To stay updated in a timely manner, please click the "Watch" button in the upper right corner of the repository.
 
