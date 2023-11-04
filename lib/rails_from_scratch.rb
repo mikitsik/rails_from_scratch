@@ -3,6 +3,8 @@
 require "rails_from_scratch/version"
 require "rails_from_scratch/array"
 require "rails_from_scratch/routing"
+require "rails_from_scratch/util"
+require "rails_from_scratch/dependencies"
 
 module RailsFromScratch
   class Error < StandardError; end
