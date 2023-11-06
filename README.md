@@ -1,6 +1,6 @@
 # Rails From Scratch
 
-Rails From Scratch is an exercise web framework that imitates Ruby On Rails and based on [Rebuilding Rails](https://rebuilding-rails.com/) Book. It is already utilized in the [Some Best Quotes Ever](https://github.com/mikitsik/some_best_quotes_ever) App.
+Rails From Scratch is an exercise web framework that imitates Ruby On Rails and based on Rebuilding Rails by Noah Gibbs book. It is already utilized in the [Some Best Quotes Ever](https://github.com/mikitsik/some_best_quotes_ever) App.
 
 ## Installation
 
